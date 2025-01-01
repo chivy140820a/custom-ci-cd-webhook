@@ -1,0 +1,6 @@
+@Custom_CI_CD_WebHook_HostAddress = http://localhost:5001
+
+GET {{Custom_CI_CD_WebHook_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
